@@ -20,7 +20,6 @@ function Cart() {
   const [open, setOpen] = useState(false);
 
   const [data, setData] = useState([]);
-
   const getCartData = () => {
     getCart().then((res) => {
       setData(res.data.data);
