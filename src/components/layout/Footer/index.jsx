@@ -25,24 +25,6 @@ function Footer() {
             <IoLogoYoutube className='size-5 mr-5' />
           </div>
         </div>
-        <div className='font-medium flex-1 '>Thông tin liên hệ
-          <p className='font-light mt-2 flex'><IoLocationSharp className='size-10' /> CS1: 83 - 85 Thái Hà - Đống Đa - HNCS2: 83A Cửu Long -Phường 15 - Q10 - TP.HCM</p>
-          <p className='font-light mt-2 flex'><MdOutlinePhone className='size-5 mr-2' /> 087.997.9997 - 098.655.2233</p>
-          <p className='font-light mt-2 flex'><IoMailSharp className='size-5 mr-2' /> 087.997.9997 - 098.655.2233</p>
-        </div>
-        <div className='font-medium flex-1'>Tài khoản ngân hàng
-          <li className='font-light mt-2'>Tài khoản ngân hàng</li>
-          <li className='font-light mt-2'>Tìm kiếm</li>
-          <li className='font-light mt-2'>Phương thức thanh toán</li>
-        </div>
-        <div className='font-medium flex-1'>Chính sách
-          <li className='font-light mt-2'>Chính sách bảo mật</li>
-          <li className='font-light mt-2'>Quy định bảo hành</li>
-          <li className='font-light mt-2'>Chính sách đổi trả</li>
-          <li className='font-light mt-2'>Điều khoản sử dụng</li>
-          <li className='font-light mt-2'>Chính sách vận chuyển & kiểm hàng</li>
-          <li className='font-light mt-2'>Phân định trách nhiệm của tổ chức cung ứng dịch vụ logistics</li>
-        </div>
       </div>
     </div>
     <div className='mt-5 border-t-2 border-amber-200'>
