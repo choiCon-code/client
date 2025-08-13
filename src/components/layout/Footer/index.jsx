@@ -47,6 +47,7 @@ function Footer() {
     </div>
     <div className='mt-5 border-t-2 border-amber-200'>
       <p className='text-center mt-5 font-light'>Copyright © 2025 Bản quyền của Công ty cổ phẩn Mocato Việt Nam - Trụ sở: 248 Phú Viên, Bồ Đề, Long Biên, Hà Nội. GPĐKKD: 0109787586 do Sở Kế Hoạch và Đầu Tư Hà Nội cấp ngày 22/10/2021</p>
+      <div></div>
     </div>
     </div>
   )
